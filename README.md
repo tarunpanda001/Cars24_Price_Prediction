@@ -1,5 +1,6 @@
 # Cars24_Price_Prediction
-Cars24 Price Prediction
+Cars24 Price Prediction    
+
 🚗 Used Car Price Prediction Dashboard
 
 An interactive Used Car Price Prediction Web App built using Python, Streamlit, Pandas, and Scikit-learn.
@@ -64,7 +65,7 @@ Make informed decisions while buying or selling a used car
 
 The application is deployed using Streamlit Cloud.
 
-Live Link: Cars24 Price Prediction
+Live Link:  https://cars24-price.streamlit.app/
 
 👨‍💻 Author
 
