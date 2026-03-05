@@ -36,9 +36,13 @@ Scikit-learn
 cars24_price_prediction/
 │
 ├── cars24.py            # Main Streamlit application
+
 ├── model.pkl            # Trained machine learning model
+
 ├── requirements.txt     # Project dependencies
+
 └── README.md            # Project documentation
+
 📊 Application Preview
 
 The dashboard provides:
