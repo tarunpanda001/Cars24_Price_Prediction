@@ -33,6 +33,7 @@ NumPy
 Scikit-learn
 
 📂 Project Structure
+
 cars24_price_prediction/
 │
 ├── cars24.py            # Main Streamlit application
